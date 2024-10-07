@@ -28,7 +28,7 @@ I am available for freelance work and open to contributing to open-source projec
 2. **Church Managemnet Information System  (Laravel)**
    - **Description**: A comprehensive system for managing church operations, including member registration, leadership management, tracking of sacrifices (donations), and managing church assets. It helps streamline administrative tasks and enhance transparency within the church.
    - **Technologies**: Laravel, Bootstrap, MySQL
-   - [Project  Link]([https://kkktkibada.or.tz/])
+   - [Repository Link](https://github.com/ikwekatz/kkkt)
 
 3. **Inventory Management System (CodeIgniter)**
    - **Description**: A lightweight blog platform where users can create, edit, and manage posts. Includes user authentication, comment system, and responsive design.
