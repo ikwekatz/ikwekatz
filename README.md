@@ -1,5 +1,7 @@
 # Hi, I'm Immanuel 👋
 
+I am a multi-skilled developer with a passion for creating efficient web applications, mobile apps, and compelling visual designs. Here’s a quick overview of my expertise:
+
 I’m an experienced web application developer with expertise in Laravel, Django, Django Rest Framework, and CodeIgniter. I have a growing interest in Spring Boot and Angular, and I’m currently expanding my skills in these technologies. In addition to web development, I am also moderately experienced in mobile app development using Flutter.
 
 I am available for freelance work and open to contributing to open-source projects.
@@ -11,6 +13,7 @@ I am available for freelance work and open to contributing to open-source projec
 - **Databases**: MySQL, Oracle
 - **Version Control**: Git, GitHub
 - **Other**: REST APIs, WebSockets, JWT Authentication, Bootstrap
+- **Graphics & Video Editing**: Adobe Photoshop, Illustrator, Premiere Pro, Audition, After Effects
 
 ### 📚 Currently Learning:
 - Spring Boot
@@ -33,6 +36,12 @@ I am available for freelance work and open to contributing to open-source projec
 3. **Inventory Management System (CodeIgniter)**
    - **Description**: A lightweight blog platform where users can create, edit, and manage posts. Includes user authentication, comment system, and responsive design.
    - **Technologies**: CodeIgniter, Bootstrap, PostgreSQL
+  
+### 🎨 **Graphics Design & Video Editing**:
+- **Description**: Experienced in creating stunning visuals and video content for projects, including logo design, posters, and social media graphics. Skilled in video editing, adding special effects, and audio production.
+- **Tools**: Adobe Photoshop, Illustrator, Premiere Pro, Audition, After Effects
+
+---
   
 
 ### 🌍 Open Source Contributions:
