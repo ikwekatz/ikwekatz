@@ -7,13 +7,17 @@ I’m an experienced web application developer with expertise in Laravel, Django
 I am available for freelance work and open to contributing to open-source projects.
 
 ### 🛠️ Technologies & Tools:
-- **Web Frameworks**: Laravel, Django, Django Rest Framework, CodeIgniter, Spring Boot (learning), Angular (learning)
+- **Web Frameworks**: Laravel, Django, Django Rest Framework, CodeIgniter, Spring Boot , Angular, React
 - **Mobile Development**: Flutter (moderate experience)
 - **Languages**: Python, PHP, JavaScript, Java
-- **Databases**: MySQL, Oracle
+- **Databases**: MySQL, Oracle, Postress
 - **Version Control**: Git, GitHub
 - **Other**: REST APIs, WebSockets, JWT Authentication, Bootstrap
 - **Graphics & Video Editing**: Adobe Photoshop, Illustrator, Premiere Pro, Audition, After Effects
+- **Web Design and Prototype**: Adobe XD, Figma and Axure XP.\
+- **Administration**: Linux System Administration, Windows Administration
+- **Containerization and Container Orchestration Technologies**: Docker, Kubernetes
+- **Server Virtualization**: Proxmox Virtual Environment (Proxmox VE), VMware , KVM VirtualBox
 
 ### 📚 Currently Learning:
 - Spring Boot
